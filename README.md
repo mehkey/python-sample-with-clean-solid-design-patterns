@@ -32,7 +32,7 @@ Suppose now that we start with multiple turtles on the same finite grid. Each tu
 
 
 
-```
+```python
 
 
 from typing import Tuple, List
